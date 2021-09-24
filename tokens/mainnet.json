@@ -2971,7 +2971,7 @@
     "chainId": 1,
     "address": "0x442f4f866b617a8c7087043035a66bfe715c7e08",
     "name": "🇺🇸coin.eth",
-    "symbol": "🇺🇸COIN",
+    "symbol": "🇺🇸",
     "decimals": 18,
     "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x442f4f866b617a8c7087043035a66bfe715c7e08/logo.png"
   },
