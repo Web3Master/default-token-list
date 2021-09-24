@@ -830,5 +830,37 @@
     "symbol": "ALPHA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0B048D6e01a6b9002C291060bF2179938fd8264c/logo.png"
+  },
+    {
+    "chainId": 137,
+    "address": "0x9CDAE334aA149042654D865B961aeE9ACF496162",
+    "name": "🚀coin.eth",
+    "symbol": "🚀COIN",
+    "decimals": 18,
+    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/polygon/assets/0x9CDAE334aA149042654D865B961aeE9ACF496162/logo.png"
+  },
+      {
+    "chainId": 137,
+    "address": "0x442f4f866b617a8c7087043035a66bfe715c7e08",
+    "name": "🇺🇸coin.eth",
+    "symbol": "🇺🇸",
+    "decimals": 18,
+    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x442f4f866b617a8c7087043035a66bfe715c7e08/logo.png"
+  },
+        {
+    "chainId": 137,
+    "address": "0xaCf9D88928848a746eB94F177C29CE825425fbcD",
+    "name": "👽punk.eth",
+    "symbol": "👽PUNK🇸",
+    "decimals": 18,
+    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/polygon/assets/0x5dBbDf87f9C49338E99A00c6ceb669f86DF984Bc/logo.png"
+  },
+          {
+    "chainId": 137,
+    "address": "0x1386e8BA65dfAD31F51B285Ede77ED526Dd0581e",
+    "name": "🦍punk.eth",
+    "symbol": "🦍PUNK",
+    "decimals": 18,
+    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/polygon/assets/0x1386e8BA65dfAD31F51B285Ede77ED526Dd0581e/logo.png"
   }
 ]
