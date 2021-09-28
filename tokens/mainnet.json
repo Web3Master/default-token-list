@@ -2965,7 +2965,7 @@
     "name": "🚀coin.eth",
     "symbol": "🚀COIN",
     "decimals": 18,
-    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x68e3Ac384a27c892319d99D06e4232E85e6a419F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x68e3Ac384a27c892319d99D06e4232E85e6a419F/logo.png"
   },
   {
     "chainId": 1,
@@ -2973,7 +2973,7 @@
     "name": "🇺🇸coin.eth",
     "symbol": "🇺🇸",
     "decimals": 18,
-    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x442f4f866b617a8c7087043035a66bfe715c7e08/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x442f4f866b617a8c7087043035a66bfe715c7e08/logo.png"
   },
   {
     "chainId": 1,
@@ -2981,7 +2981,7 @@
     "name": "👽punk.eth",
     "symbol": "👽PUNK",
     "decimals": 18,
-    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x44964fd4a6a9c114f8d546380c85c2a7df06d174/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0x44964fd4a6a9c114f8d546380c85c2a7df06d174/logo.png"
   },
   {
     "chainId": 1,
@@ -2989,6 +2989,6 @@
     "name": "🦍punk.eth",
     "symbol": "🦍PUNK",
     "decimals": 18,
-    "logoURI": "https://github.com/sushiswap/assets/blob/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0xaCf9D88928848a746eB94F177C29CE825425fbcD/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/41dfda1f8b448c6989359d6352373c5b07fc0de1/blockchains/ethereum/assets/0xaCf9D88928848a746eB94F177C29CE825425fbcD/logo.png"
   }
 ]
